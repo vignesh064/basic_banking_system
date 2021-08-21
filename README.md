@@ -1,2 +1,2 @@
-# basic_banking_system
-Basic Banking System Website
+Banking System 
+Webpage for Banking app
